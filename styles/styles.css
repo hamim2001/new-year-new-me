@@ -38,7 +38,7 @@
     padding: 160px 120px 50px;
 }
 .failure-title{
-    padding: 330px 620px 100px 50px;
+    padding: 230px 620px 100px 50px;
 }
 .heading{
     font-size: 50px;
@@ -57,6 +57,32 @@
 }
 .mark{
     color: green;
+}
+/* plan section */
+h3{
+    font-size: 50px;
+    text-align: center;
+    padding-top: 70px;
+}
+.plan-list{
+    display: flex;
+    justify-content: center;
+    padding-top: 90px;
+    gap: 160px;
+}
+.plan-head{
+    font-size: 25px;
+    padding-top: 25px;
+    font-weight: 600;
+
+}
+.plan-des{
+    color: #444343;
+    padding-top: 15px;
+    font-size: 20px;
+}
+.part-all{
+    text-align: center;
 }
 
 
