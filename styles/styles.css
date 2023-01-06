@@ -84,6 +84,43 @@ h3{
 .part-all{
     text-align: center;
 }
+/* image section */
+.image-head{
+    font-size: 40px;
+    padding: 50px;
+    color: rgb(24, 24, 24);
+    font-family: sans-serif;
+    padding-bottom: 15px;
+    
+}
+.picture{
+    background-image: url('../images/gradient2.png'),url('../images/watch.png'),linear-gradient(to right,rgb(77, 38, 14),rgb(65, 42, 42));
+    background-blend-mode: ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 280px;
+    width: 1100px;
+    margin: 162px 530px 150px 380px;
+}
+.call-btn{
+    font-size: 20px;
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    border: none;
+    color: rgb(93, 48, 9);
+    padding: 0px;
+    margin-left: 50px;
+}
+.contact{
+    margin-left: 20px;
+}
+/* footer */
+
+
+
+
+
 
 
 
